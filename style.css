@@ -532,7 +532,7 @@ footer a{
     color: #fff;
 }
 .footer-widget img{
-
+max-width:140px;
 }
 .widget-social ul{
     display: flex;
